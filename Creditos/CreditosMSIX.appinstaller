@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
 	Uri="https://jorgea3802.github.io/Creditos/CreditosMSIX.appinstaller"
-	Version="1.0.24.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2018">
+	Version="1.0.25.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2018">
 	<MainBundle
 		Name="CreditosMSIX"
-		Version="1.0.24.0"
+		Version="1.0.25.0"
 		Publisher="CN=Jorge Gutierrez"
-		Uri="https://jorgea3802.github.io/Creditos/CreditosMSIX_1.0.24.0_Test/CreditosMSIX_1.0.24.0_x86.msixbundle" />
+		Uri="https://jorgea3802.github.io/Creditos/CreditosMSIX_1.0.25.0_Test/CreditosMSIX_1.0.25.0_x86.msixbundle" />
 	<UpdateSettings>
 		<OnLaunch
 			HoursBetweenUpdateChecks="0"
